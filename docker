@@ -1,1 +1,2 @@
 git clone https://github.com/docker/welcome-to-docker
+cd welcome-to-docker
